@@ -14,3 +14,35 @@ font-size: 20px;
 font-family: serif;
 line-height: 2;
 }
+
+.italy {
+    font-size: 80px;
+    font-family: serif;
+    text-align: center;
+    color: orange;
+    text-decoration: underline;
+}
+
+.italy1 {
+    color: green ;
+    font-size: 25px;
+    width: 35%;
+    height: 50%;
+    background-image: url(images/fooditaly.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: serif;
+    
+}
+.italy2 {
+    font-size: 70px;
+    font-family: serif;
+    text-align: right;
+    text-decoration: underline;
+    color: white;
+}
+
+body{
+    background-image: url(images/italy.jpg);
+    background-size: 100%; 
+ }
