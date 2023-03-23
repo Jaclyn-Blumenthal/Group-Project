@@ -14,3 +14,17 @@ font-size: 20px;
 font-family: serif;
 line-height: 2;
 }
+
+.image {
+    display: flex;
+   
+    flex-direction: column;
+    flex-wrap: wrap;
+       
+}
+
+.image > div{
+    
+    margin-bottom: 50px;
+    width: 100%;
+}
