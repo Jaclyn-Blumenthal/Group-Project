@@ -15,6 +15,7 @@ font-family: serif;
 line-height: 2;
 }
 
+<<<<<<< HEAD
 .italy {
     font-size: 80px;
     font-family: serif;
@@ -46,3 +47,18 @@ body{
     background-image: url(images/italy.jpg);
     background-size: 100%; 
  }
+=======
+.image {
+    display: flex;
+   
+    flex-direction: column;
+    flex-wrap: wrap;
+       
+}
+
+.image > div{
+    
+    margin-bottom: 50px;
+    width: 100%;
+}
+>>>>>>> f1b9e1bd35d53c77f852bc5dd40ab623b2af4957
