@@ -7,7 +7,7 @@ h1 {
 }
 
 p{
-    color: rgb(152, 246, 10);
+    color: green;
     text-align: left;
     width: 50%;
 font-size: 20px;
@@ -15,7 +15,6 @@ font-family: serif;
 line-height: 2;
 }
 
-<<<<<<< HEAD
 .italy {
     font-size: 80px;
     font-family: serif;
@@ -43,11 +42,7 @@ line-height: 2;
     color: white;
 }
 
-body{
-    background-image: url(images/italy.jpg);
-    background-size: 100%; 
- }
-=======
+
 .image {
     display: flex;
    
@@ -61,4 +56,3 @@ body{
     margin-bottom: 50px;
     width: 100%;
 }
->>>>>>> f1b9e1bd35d53c77f852bc5dd40ab623b2af4957
