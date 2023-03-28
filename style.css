@@ -43,16 +43,18 @@ line-height: 2;
 }
 
 
-.image {
+.pics {
     display: flex;
    
     flex-direction: column;
     flex-wrap: wrap;
+    align-content: flex-end;
+    position: top;
        
 }
 
 .image > div{
     
     margin-bottom: 50px;
-    width: 100%;
+    
 }
