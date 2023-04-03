@@ -68,8 +68,21 @@ font-weight: bold;
     right: 20px;
     height: 25px;
 }
+.pi {
+    position:absolute;
+    right: 20px;
+    height: 25px;
+    top: 80px;
+}
+.pc {
+    position:absolute;
 
+    right: 20px;
+    
+}
+.im{
+    width: 400px;
+    height: 200px;
 
-    
-    
+}
 
